@@ -19,7 +19,6 @@ class Student:
             print("Grade: B")
         else:
             print("Grade: C")
-
 # Creating objects of Student class
 student1 = Student("Sanjana", 101, 85)
 student2 = Student("Amit", 102, 65)
