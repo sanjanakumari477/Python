@@ -1,4 +1,5 @@
 class Student:
+    
     def __init__(self, name, roll_no, marks):
         # Constructor to initialize values
         self.name = name
