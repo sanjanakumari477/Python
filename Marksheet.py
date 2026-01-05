@@ -30,3 +30,23 @@ elif percentage >= 40:
 
 else:
     print("Poor")
+
+
+'''Output
+
+enter any name: Sanju
+enter Dob: 12-feb-2005
+enter Roll no: 200040
+----Marksheet----
+enter marks: 72
+enter marks: 88
+enter marks: 89
+enter marks: 66
+enter marks: 78
+Name: Sanju
+DOB: 12-feb-2005
+Roll No: 200040
+Total Marks: 393
+Percentage: 78.6
+Very Good
+'''
