@@ -1,0 +1,61 @@
+What is OOPS in Python?
+
+OOPS (Object Oriented Programming System) is a programming approach where we design programs using classes and objects instead of only functions and logic.
+
+👉 Python is a fully object-oriented language.
+
+Why use OOPS?
+
+Code becomes clean & structured
+
+Reusability of code
+
+Easy maintenance
+
+Better security
+
+Easy to manage large projects
+
+🔹 Key Concepts of OOPS in Python
+
+There are 6 main OOPS concepts:
+
+Class
+
+Object
+
+Encapsulation
+
+Inheritance
+
+Polymorphism
+
+Abstraction
+
+1️⃣ Class
+What is a Class?
+
+A class is a blueprint or template from which objects are created.
+
+ Example:
+Class = Design of a house
+Object = Actual house built from that design
+
+Syntax:
+class Student:
+    name = "Sanjana"
+    age = 22
+
+2️⃣ Object
+What is an Object?
+
+An object is an instance of a class.
+
+Example:
+s1 = Student()
+print(s1.name)
+print(s1.age)
+
+Output:
+Sanjana
+22
