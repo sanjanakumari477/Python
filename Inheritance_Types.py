@@ -1,4 +1,4 @@
-There are five types of inheritance in Python.
+🔹 There are five types of inheritance in Python.
 
 They are:
 
@@ -27,3 +27,14 @@ To reuse parent class methods
 To avoid duplicate code
 
 Useful in multiple inheritance
+
+🔹 What is MRO? (Method Resolution Order)
+
+MRO (Method Resolution Order) is the order in which Python searches for a method or attribute in a hierarchy of classes, especially in multiple inheritance.
+
+📌 MRO tells Python which method to execute first if the same method name exists in multiple parent classes.
+
+🔹 Why is MRO Needed?
+
+In multiple inheritance, different parent classes may have methods with the same name.
+MRO helps Python decide:
