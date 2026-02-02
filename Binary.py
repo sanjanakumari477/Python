@@ -1,5 +1,4 @@
 # Program to convert a number into binary form
-
 # Get input from user
 num = int(input("Enter a number: "))
 
