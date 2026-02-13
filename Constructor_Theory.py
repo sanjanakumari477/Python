@@ -4,7 +4,6 @@ What is Constructor?
 A constructor is a special function that runs automatically when an object is created.
 
 👉 Used to initialize data.
-
 Example:
 class Student:
     def __init__(self, name, age):
