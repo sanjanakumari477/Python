@@ -1,5 +1,4 @@
 # Program to calculate Net Salary
-
 basic_salary = float(input("Enter Basic Salary: "))
 hra = float(input("Enter HRA (House Rent Allowance): "))
 da = float(input("Enter DA (Dearness Allowance): "))
