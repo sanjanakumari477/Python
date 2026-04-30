@@ -2,7 +2,6 @@
 # Get input from the user
 
 num = int(input("Enter a number: "))
-
 # Convert number to string to count digits
 num_str = str(num)
 n = len(num_str)
