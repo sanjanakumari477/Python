@@ -4,7 +4,7 @@ class Student:
         self.name = name
         self.roll_no = roll_no
         self.marks = marks
-
+        
     def display(self):
         print("Student Name:", self.name)
         print("Roll Number:", self.roll_no)
